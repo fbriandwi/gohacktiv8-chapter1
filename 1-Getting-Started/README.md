@@ -14,6 +14,3 @@ Make go program with following output:
 - var k float64 = 123.456;
   - menampilkan float : 123.456000 
   - menampilkan float scientific : 1.234560E+02
-
-### Output
-![Output challenge 2](output_challenge1.png)
